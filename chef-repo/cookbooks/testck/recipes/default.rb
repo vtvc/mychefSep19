@@ -7,3 +7,4 @@
 
 include_recipe 'testck::myrecipe'
 include_recipe 'testck::mytree'
+include_recipe 'testck::mysql'
