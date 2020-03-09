@@ -1,26 +1,20 @@
-name 'testck'
+name 'myfilescookbook'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
-description 'Installs/Configures testck'
-long_description 'Installs/Configures testck'
-version '0.2.3'
+description 'Installs/Configures myfilescookbook'
+long_description 'Installs/Configures myfilescookbook'
+version '0.1.3'
 chef_version '>= 13.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
 # tracked.  A `View Issues` link will be displayed on this cookbook's page when
 # uploaded to a Supermarket.
 #
-# issues_url 'https://github.com/<insert_org_here>/testck/issues'
+# issues_url 'https://github.com/<insert_org_here>/myfilescookbook/issues'
 
 # The `source_url` points to the development repository for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
-# source_url 'https://github.com/<insert_org_here>/testck'
-
-
-depends 'mysql', '~> 8.0'
-depends 'java', '~> 6.0.0'
-depends 'chef-client', '~> 11.5.0'
-
+# source_url 'https://github.com/<insert_org_here>/myfilescookbook'
